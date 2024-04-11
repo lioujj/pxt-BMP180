@@ -1,0 +1,7 @@
+{
+    "BMP180|block": "BMP180",
+    "BMP180.valueType.value1|block":"氣壓(hPa)",
+    "BMP180.valueType.value2|block":"溫度(C)",
+    "BMP180.valueType.value3|block":"高度(m)",
+    "BMP180.getMeasureValue|block": "BMP180 %myValue"
+}
